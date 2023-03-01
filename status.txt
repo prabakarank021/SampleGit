@@ -1,3 +1,4 @@
 Status new feature code
 View icon center code by vinoth 
+total view count code by praba
 Delete status button by vinoth
