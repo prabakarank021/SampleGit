@@ -1,2 +1,3 @@
 Status new feature code
 View icon center code by vinoth 
+Delete status button by vinoth
